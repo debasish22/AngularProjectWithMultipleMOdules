@@ -3,6 +3,8 @@ Note :
 
 once you download this project do a npm install so that it downloads the node_modules necessary to run the Project .
 
+link to full article for this - https://sites.google.com/site/debasish22blog/angular2/multiplemodules-in-angular-2
+
 # AngularCLITraining
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.2.
